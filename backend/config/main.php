@@ -49,6 +49,10 @@ return [
             ],
         ],*/
 
+            'apple' => [
+                'class' => 'app\components\AppleClass',
+            ],
+
     ],
     'params' => $params,
 ];
